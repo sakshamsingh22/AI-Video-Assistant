@@ -1,1 +1,13 @@
 .env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+downloads/
+downloades/
+vector_db/
+*.wav
+.DS_Store
